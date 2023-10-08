@@ -1,0 +1,27 @@
+<html>
+
+<head>
+
+<script language="JavaScript">
+
+<!-- hide
+
+function openWin() {
+
+myWin= open("www.google.com");
+
+} <-- //
+
+</script>
+
+</head>
+
+<body>
+
+<form>
+
+<input type="button" value="Open new window" onClick="openWin()">
+
+</form>
+
+</body> </html>
